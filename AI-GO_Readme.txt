@@ -6,7 +6,7 @@
 ## anaconda instruction 
 conda env list
 conda create --name AI-GO python=3.9
-conda activate AI-GO
+source activate AI-GO
 conda list
 pip list
 conda deactivate
